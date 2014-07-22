@@ -12,7 +12,6 @@ $xArr = array(38,56,57,57,99,
 			  52,98
 		);
 
-$yArr = array(48,49,50,51,52,53,54,55,56,57);
 $username = $_GET['username'];
 
 
